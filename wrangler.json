@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "chess",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "2ac51cf9-4bcf-48e7-93c8-03b95c1a75d4",
+			"database_name": "chess-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
